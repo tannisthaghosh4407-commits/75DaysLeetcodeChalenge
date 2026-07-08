@@ -10,11 +10,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0031-next-permutation](https://github.com/tannisthaghosh4407-commits/75DaysLeetcodeChalenge/tree/master/0031-next-permutation) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/tannisthaghosh4407-commits/75DaysLeetcodeChalenge/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/tannisthaghosh4407-commits/75DaysLeetcodeChalenge/tree/master/0088-merge-sorted-array) |
+| [1768-merge-strings-alternately](https://github.com/tannisthaghosh4407-commits/75DaysLeetcodeChalenge/tree/master/1768-merge-strings-alternately) |
 ## String
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/tannisthaghosh4407-commits/75DaysLeetcodeChalenge/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/tannisthaghosh4407-commits/75DaysLeetcodeChalenge/tree/master/0030-substring-with-concatenation-of-all-words) |
+| [1768-merge-strings-alternately](https://github.com/tannisthaghosh4407-commits/75DaysLeetcodeChalenge/tree/master/1768-merge-strings-alternately) |
 ## String Matching
 |  |
 | ------- |
