@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/tannisthaghosh4407-commits/75DaysLeetcodeChalenge/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/tannisthaghosh4407-commits/75DaysLeetcodeChalenge/tree/master/0030-substring-with-concatenation-of-all-words) |
+| [1071-greatest-common-divisor-of-strings](https://github.com/tannisthaghosh4407-commits/75DaysLeetcodeChalenge/tree/master/1071-greatest-common-divisor-of-strings) |
 | [1768-merge-strings-alternately](https://github.com/tannisthaghosh4407-commits/75DaysLeetcodeChalenge/tree/master/1768-merge-strings-alternately) |
 ## String Matching
 |  |
@@ -25,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0029-divide-two-integers](https://github.com/tannisthaghosh4407-commits/75DaysLeetcodeChalenge/tree/master/0029-divide-two-integers) |
+| [1071-greatest-common-divisor-of-strings](https://github.com/tannisthaghosh4407-commits/75DaysLeetcodeChalenge/tree/master/1071-greatest-common-divisor-of-strings) |
 ## Bit Manipulation
 |  |
 | ------- |
