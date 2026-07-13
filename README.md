@@ -17,12 +17,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/tannisthaghosh4407-commits/75DaysLeetcodeChalenge/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/tannisthaghosh4407-commits/75DaysLeetcodeChalenge/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0242-valid-anagram](https://github.com/tannisthaghosh4407-commits/75DaysLeetcodeChalenge/tree/master/0242-valid-anagram) |
+| [0459-repeated-substring-pattern](https://github.com/tannisthaghosh4407-commits/75DaysLeetcodeChalenge/tree/master/0459-repeated-substring-pattern) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/tannisthaghosh4407-commits/75DaysLeetcodeChalenge/tree/master/1071-greatest-common-divisor-of-strings) |
 | [1768-merge-strings-alternately](https://github.com/tannisthaghosh4407-commits/75DaysLeetcodeChalenge/tree/master/1768-merge-strings-alternately) |
 ## String Matching
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/tannisthaghosh4407-commits/75DaysLeetcodeChalenge/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0459-repeated-substring-pattern](https://github.com/tannisthaghosh4407-commits/75DaysLeetcodeChalenge/tree/master/0459-repeated-substring-pattern) |
 ## Math
 |  |
 | ------- |
