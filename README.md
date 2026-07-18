@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/tannisthaghosh4407-commits/75DaysLeetcodeChalenge/tree/master/0030-substring-with-concatenation-of-all-words) |
+| [0169-majority-element](https://github.com/tannisthaghosh4407-commits/75DaysLeetcodeChalenge/tree/master/0169-majority-element) |
 | [0242-valid-anagram](https://github.com/tannisthaghosh4407-commits/75DaysLeetcodeChalenge/tree/master/0242-valid-anagram) |
 ## Sliding Window
 |  |
@@ -51,15 +52,25 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0031-next-permutation](https://github.com/tannisthaghosh4407-commits/75DaysLeetcodeChalenge/tree/master/0031-next-permutation) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/tannisthaghosh4407-commits/75DaysLeetcodeChalenge/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/tannisthaghosh4407-commits/75DaysLeetcodeChalenge/tree/master/0088-merge-sorted-array) |
+| [0169-majority-element](https://github.com/tannisthaghosh4407-commits/75DaysLeetcodeChalenge/tree/master/0169-majority-element) |
 | [0605-can-place-flowers](https://github.com/tannisthaghosh4407-commits/75DaysLeetcodeChalenge/tree/master/0605-can-place-flowers) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/tannisthaghosh4407-commits/75DaysLeetcodeChalenge/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 ## Sorting
 |  |
 | ------- |
 | [0088-merge-sorted-array](https://github.com/tannisthaghosh4407-commits/75DaysLeetcodeChalenge/tree/master/0088-merge-sorted-array) |
+| [0169-majority-element](https://github.com/tannisthaghosh4407-commits/75DaysLeetcodeChalenge/tree/master/0169-majority-element) |
 | [0242-valid-anagram](https://github.com/tannisthaghosh4407-commits/75DaysLeetcodeChalenge/tree/master/0242-valid-anagram) |
 ## Greedy
 |  |
 | ------- |
 | [0605-can-place-flowers](https://github.com/tannisthaghosh4407-commits/75DaysLeetcodeChalenge/tree/master/0605-can-place-flowers) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/tannisthaghosh4407-commits/75DaysLeetcodeChalenge/tree/master/0169-majority-element) |
+## Counting
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/tannisthaghosh4407-commits/75DaysLeetcodeChalenge/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
