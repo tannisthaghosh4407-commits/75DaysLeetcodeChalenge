@@ -54,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/tannisthaghosh4407-commits/75DaysLeetcodeChalenge/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/tannisthaghosh4407-commits/75DaysLeetcodeChalenge/tree/master/0169-majority-element) |
 | [0605-can-place-flowers](https://github.com/tannisthaghosh4407-commits/75DaysLeetcodeChalenge/tree/master/0605-can-place-flowers) |
+| [1260-shift-2d-grid](https://github.com/tannisthaghosh4407-commits/75DaysLeetcodeChalenge/tree/master/1260-shift-2d-grid) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/tannisthaghosh4407-commits/75DaysLeetcodeChalenge/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 ## Sorting
 |  |
@@ -73,4 +74,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/tannisthaghosh4407-commits/75DaysLeetcodeChalenge/tree/master/0169-majority-element) |
+## Matrix
+|  |
+| ------- |
+| [1260-shift-2d-grid](https://github.com/tannisthaghosh4407-commits/75DaysLeetcodeChalenge/tree/master/1260-shift-2d-grid) |
+## Simulation
+|  |
+| ------- |
+| [1260-shift-2d-grid](https://github.com/tannisthaghosh4407-commits/75DaysLeetcodeChalenge/tree/master/1260-shift-2d-grid) |
 <!---LeetCode Topics End-->
